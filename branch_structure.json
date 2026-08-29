@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1096-build-root-package-json-is-missing",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1096-build-root-package-json-is-missing": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1096-build-root-package-json-is-missing",
+    "origin"
+  ]
+}
